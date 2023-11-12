@@ -1,0 +1,35 @@
+Sistemas:
+
+NomeSistema
+Compras
+Vendas
+Contabilidade
+Financeiro
+
+
+Usuários:
+
+CPF				NomeUsuario
+111.111.111-11	Carlos
+980.662.220-09	Daniel
+949.107.100-94	Felipe
+239.016.680-63	Marcio
+
+
+Perfil Acesso:
+
+NomePerfil				DescricaoDetalhePerfil
+Auxiliar de Compras		Responsável pelo cadastro de fornecedores, produtos, serviços e criação de Orçamentos
+Gerente de Compras		O gerente de comprar poderá fazer uma auditoria dos orçamentos lançados, cadastro financeiro do fornecedor e fornecedores frequentes
+Relatório de Compras	O usuário poderá acessar os relatórios de compras
+
+Vendedor				O usuário poderá acessar as telas de pedidos, clintes e produtos de venda
+Supervisor Vendas		O usuário terá acesso ás informações dos vendedores como desempenho de vendas e comissões
+Relatório de Vendas		O usuário poderá acessar os relatórios de vendas
+Analista Contabilidade	O usuário terá acesso à todas as informações contábeis dos sistemas e poderá fazer auditorias
+
+Matriz de conflito SoD:
+
+CodigoPerfilAcesso1	    CodigoPerfilAcesso2	    DescricaoDetalheConflito
+Auxiliar de Compras	    Gerente de Compras 	    Auxiliar de compras" não poderá ter acesso aos relatórios de auditoria de compras e cadastro de informações financeiras dos fornecedores. Estas tarefas são relizadas pelo perfil de Gerente de Compras
+Vendedor			    Supervisor Vendas	    O perfil de vendedor não poderá acessar relatórios acessados pelo Supervisor de Vendas, pois nestes relatórios mostram informações de outros vendedores incluindo carteira de clinte e comissões.

@@ -1,0 +1,36 @@
+Sistema 
+    codigo INTEGER NOT NULL PRIMARY KEY AUTOINCREMENT,
+    nome TEXT NOT NULL,
+    
+    UNIQUE (nome)
+
+
+Usuario
+        codigo INTEGER NOT NULL PRIMARY KEY AUTOINCREMENT,
+        nome TEXT NOT NULL,
+        CPF TEXT NOT NULL,
+        
+        UNIQUE (CPF)
+
+PerfilAcesso
+        codigo INTEGER NOT NULL PRIMARY KEY AUTOINCREMENT,
+        CodigoSistema INTEGER NOT NULL,
+        Nome TEXT NOT NULL,
+        Descricao TEXT NOT NULL,
+        
+        UNIQUE (CodigoSistema, Nome, Descricao)
+
+PerfilUsuario
+        codigo INTEGER NOT NULL PRIMARY KEY AUTOINCREMENT,
+        CodigoUsuario INTEGER NOT NULL,
+        CodigoPerfilAcesso INTEGER NOT NULL,
+        
+        UNIQUE (CodigoUsuario, CodigoPerfilAcesso)
+
+MatrizSoD
+        codigo INTEGER NOT NULL PRIMARY KEY AUTOINCREMENT,
+        CodigoPerfilAcesso1 INTEGER NOT NULL,
+        CodigoPerfilAcesso2 INTEGER NOT NULL,
+        Descricao TEXT NOT NULL,
+        
+        UNIQUE (CodigoPerfilAcesso1, CodigoPerfilAcesso2)

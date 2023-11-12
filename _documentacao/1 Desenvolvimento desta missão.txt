@@ -1,0 +1,49 @@
+
+🎮 Procedimentos: 
+
+    - Utilize a descrição do projeto orientado pelo Mestre dos Magos para especificar as funcionalidades e os 
+        recursos que devem estar presentes na solução. 
+        Este material está disponível no passo 3 do card "Projetando Uma Aplicação Desktop"; 
+    - Crie um projeto com uma IDE do Python (sugestão: use o PyCharm) para operar no desktop; 
+    - Todos os requisitos funcionais devem ser implementados e indicados na implementação; 
+    - Todos os requisitos não funcionais devem ser indicados; 
+    - Ao concluir o projeto, ele deve ser armazenado em um repositório no Git com: (1) as devidas explicações do que é o projeto; (2) o que o usuário precisa fazer para executá-lo (quais pacotes devem ser instalados); (3) link para gravação do Youtube do sistema em funcionamento. 
+
+✅ Resultados esperados: 
+
+    - A implementação do projeto deve estar armazenada no Git com a respectiva documentação; 
+    - O vídeo do Youtube deve apresentar o sistema em funcionamento e deixar clara qual foi a participação dos membros na 
+        equipe na elaboração do projeto; 
+    - Todos os dados utilizados para armazenamento de dados devem estar no Git e devidamente destacados; 
+
+    - O projeto deve ter: 
+
+        (1) uma interface gráfica que contenha componentes que facilitem a interação com o usuário; 
+        (2) funcionalidades para escrita e leitura de dados em arquivos (.csv) ou (.xlsx); 
+        (3) funcionalidades para geração de gráficos e relatórios;  
+        (4) controle de autenticação de usuários 
+
+ 
+💭 Lembre-se: 
+
+- O projeto desenvolvido e postado no repositório do GitHub deve constar: 
+    logo da universidade; 
+    nome do curso; 
+    indicação do mundo (número); 
+    número da turma; 
+    semestre letivo; 
+    indicação do grupo; 
+    matrículas e nome dos integrantes do grupo; 
+    link para o vídeo do Youtube do programa em funcionamento. 
+
+Entrega da Missão Certificação 
+
+🚀 Chegou a hora, gamer! 
+
+A entrega da missão certificação será feita pela Sala de Aula Virtual (SAVA) e 
+apenas 1 dos integrantes do DEVTEAM precisa realizar a entrega. 
+
+Exemplo: O DevTeam 4 é composto por: João, Marina, Marcos, Manuella e Diego. 
+Se Manuella fizer a entrega da missão certificação em sua SAVA, valerá para todos do DevTeam 4. 
+
+ 

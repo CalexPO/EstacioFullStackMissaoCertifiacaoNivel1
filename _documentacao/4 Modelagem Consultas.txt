@@ -1,0 +1,15 @@
+Consulta dos Sistemas; 
+    - Criar filtro pelo código e nome
+    - Carregar todos os campos 
+
+Consulta dos Perfis; 
+    - Criar filtro pelo código e nome
+    - Carregar todos os campos 
+
+Consulta da Matriz SoD; 
+    - Criar filtro pelo código e nome
+    - Carregar todos os campos 
+
+Consulta dos perfis associados aos usuários 
+    - Criar filtro pelo CPF e nome
+    - Carregar todos os campos 
