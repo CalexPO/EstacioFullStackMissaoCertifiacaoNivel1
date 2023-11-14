@@ -46,7 +46,7 @@ def menu():
 
     layout = [
             [sg.MenubarCustom(menu, tearoff=False, pad=(2,0), bar_font=('Arial Bold', 12))], 
-            [sg.Image(raiz + '/imagens/menuplanofundo2.png', size=(900,550), 
+            [sg.Image(raiz + '/imagens/ESTACIO-1024x481.png', size=(900,550), 
                       right_click_menu=['$Right',
                                         ['Papel parede',['Paper 1', 'Paper 2', 'Paper 3']],
                                         
