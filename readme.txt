@@ -15,6 +15,9 @@
     202307020151 : Daniel Pio Pereira 
     202307014788 : Matheus Macêdo Sousa
 
+# Link de demonstração da aplicação:
+https://youtu.be/UoMIlTZquZ4?si=6C7W77Y6T8qgA3za
+
 # Sobre o Projeto a Ser Desenvolvido 
 
     Desenvolver uma aplicação para gerenciamento da Matriz SoD (que em inglês quer dizer “Segregation of Duties”), 
