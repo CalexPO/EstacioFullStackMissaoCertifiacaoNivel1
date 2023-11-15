@@ -141,5 +141,5 @@ def menu():
             sg.popup_auto_close(resp)                       
 
 # Para executar o menu diretamente, descomentar a linha abaixo                           
-if __name__ == "__main__":
-        menu()
+# if __name__ == "__main__":
+#         menu()
