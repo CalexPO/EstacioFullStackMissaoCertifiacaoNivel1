@@ -3,7 +3,7 @@ import settings
 from menu import menu
 
 # Carrega theme do sistema
-sg.theme('DefaultNoMoreNagging')
+sg.theme('DarkBlue10')
 sg.set_options(font=('Arial Bold', 16))
 
 Usuario = settings.USUARIO
@@ -19,7 +19,7 @@ layout = [
     [sg.Button('Entrar')],
 ]
 
-Window = sg.Window('Login', layout, finalize=True, size=(400,200), resizable=False)
+Window = sg.Window('Login - Gerenciamento de Matriz SoD', layout, finalize=True, size=(400,200), resizable=False)
 Window['senha'].bind("<Return>", "_Enter")
 
 while True:
