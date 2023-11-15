@@ -6,6 +6,18 @@
     Objetivo : Missão Certificação Nível 1
     Trabalho : Projetando uma Aplicação Desktop
 
+# Informação da EQUIPE 9:
+
+    202308938959 : Diego Ferreira 
+    202307308099 : Leandro Nogueira 
+    202308511361 : Carlos Alexandre Paulino de Oliveira 
+    202309448467 : Daniel Guerreiro 
+    202307020151 : Daniel Pio Pereira 
+    202307014788 : Matheus Macêdo Sousa
+
+# Link de demonstração da aplicação:
+https://youtu.be/UoMIlTZquZ4?si=6C7W77Y6T8qgA3za
+
 # Sobre o Projeto a Ser Desenvolvido 
 
     Desenvolver uma aplicação para gerenciamento da Matriz SoD (que em inglês quer dizer “Segregation of Duties”), 
@@ -28,15 +40,6 @@
     A forma de conceder um perfil de acesso a um determinado usuário varia muito de empresa para empresa, dependendo do grau de sofisticação dos sistemas e ferramentas disponíveis. 
     Existem empresas em que este processo é completamente automatizado, ou seja, o processo é suportado por uma ferramenta de workflow que coleta as aprovações necessárias, verifica a existência de algum conflito de interesse através da Matriz SoD e concede o perfil de acesso ao usuário de forma automática nos sistemas. 
     Porém existem empresas em que este processo é feito de forma manual, onde a equipe de Gestão de Acesso, buscas as aprovações por email e verifica manualmente na Matriz de SoD a existência de conflito de interesse antes de conceder os acessos. 
-
-# Informação da equipe:
-
-    202308938959 : Diego Ferreira 
-    202307308099 : Leandro Nogueira 
-    202308511361 : Carlos Alexandre Paulino de Oliveira 
-    202309448467 : Daniel Guerreiro 
-    202307020151 : Daniel Pio Pereira 
-    202307014788 : Matheus Macêdo Sousa
 
 # Intruções para execução da aplicação:
 
