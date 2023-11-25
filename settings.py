@@ -1,11 +1,8 @@
 import os, sys
 
 EQUIPE = [
-        ['202308938959', 'Diego Ferreira'],
-        ['202307308099', 'Leandro Nogueira'],
         ['202308511361', 'Carlos Alexandre Paulino de Oliveira'],
         ['202309448467', 'Daniel Guerreiro'],
-        ['202307020151', 'Daniel Pio Pereira'],
         ['202307014788', 'Matheus Macêdo Sousa']
 ]
 
